@@ -108,7 +108,7 @@ raqamni almashtirishdan hosil bo'lgan sonni aniqlovchi programma tuzilsin. (Kiri
 
 **Integer23.** Kun boshidan boshlab N sekund vaqt o'tti. Kun boshidan boshlab qancha soat, minut va sekund o’tganini aniqlovchi programma tuzilsin.
 
-### Eslatma: Integer24 - Integer28 masalalarda shart operatorini ishlatmang. 
+> ### Eslatma: Integer24 - Integer28 masalalarda shart operatorini ishlatmang. 
 
 **Integer24.** Hafta kunlari quyidagicha tartibda berilgan. 0-yakshanba, 1-dushanba, 2-seshanba, 3-chorshanba, 4-payshanba, 5-juma, 6-shanba. 1-365 oraliqda yotuvchi K soni berilgan. Agar 1-yanvar dushanba bo'lsa, kiritilgan K - kun haftaning qaysi kuniga to'g'ri kelishini aniqlovchi 
 programma tuzilsin.
