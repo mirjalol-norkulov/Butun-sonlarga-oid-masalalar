@@ -1,0 +1,23 @@
+{
+  "name": "Butun-sonlarga-oid-masalalar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mirjalol-norkulov/Butun-sonlarga-oid-masalalar.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mirjalol-norkulov/Butun-sonlarga-oid-masalalar/issues"
+  },
+  "homepage": "https://github.com/mirjalol-norkulov/Butun-sonlarga-oid-masalalar#readme",
+  "dependencies": {
+    "require-glob": "^4.0.0"
+  }
+}

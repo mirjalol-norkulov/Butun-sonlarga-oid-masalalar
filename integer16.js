@@ -5,5 +5,5 @@ function integer16(a) {
 
 
 
-module.exports = { integer15 };
+module.exports = { integer16 };
 
